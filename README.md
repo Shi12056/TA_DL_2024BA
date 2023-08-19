@@ -1,1 +1,1 @@
-# TA_Deep_Learning
+# TA_Deep_Learning_Manual
